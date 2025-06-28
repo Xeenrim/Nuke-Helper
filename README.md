@@ -35,7 +35,7 @@
 
 ## 🌐 Preview
 
-[Main Menu Preview](https://lynra.vercel.app/nukehelper.png)
+<img src="https://lynra.vercel.app/nukehelper.png" alt="Main Menu Preview" width="334" height="235">
 
 ---
 
