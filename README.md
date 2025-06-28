@@ -47,6 +47,7 @@
 ## 🧠 Credits
 
 - Made By: [danthedeliveriyman](https://lynra.vercel.app)
+- **Discord:** `@danthedeliveriyman`  
 - Font: [Inter](https://fonts.google.com/specimen/Inter)
 - Built with HTML, CSS, and JavaScript
 
